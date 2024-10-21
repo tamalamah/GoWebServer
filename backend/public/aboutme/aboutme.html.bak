@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TamaLog</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <nav>
+        <a href="/">home</a>
+        <a href="/archive">archive</a>
+        <a href="/login">login</a>
+        <a href="/aboutme">about me</a>
+    </nav>
+    <header>
+        <h1>About Me</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Who is Tama?</h2>
+            <p>
+                TamaLog is a personal blog with note on my achievements and project updates. 
+                Because this (b)log is shared with others online and my want to remain anonymous, I will not being using my real name.  
+                This, along with contact information, can be found on the resume that this website was attatched to.
+            </p>
+        </section>
+        
+        <section>
+            <h2>About Tama</h2>
+            <p>
+                I am currently in college for cybersecurity and work as a Systems Analyst. 
+                In highschool, I was a terrible student and was meet facing an extended stay in high school.
+                In my Junior year, I was learned my school offered Dual Enrollment with a local college.
+                At this point in my life, I was certain that I would work some low-end retail gig and hope that my music would take off (all things my mother wanted to hear!)
+                It was upon this offer that I realized "my life plan is terrible!" and looked into the offer.
+                Due to how my school was structed, you in theory can gradute in one year. 
+                Over the coming six months, I completed over 2.5 years worth of credits (or rather caught up on) which made me eligable for DEA (Dual Enrollment Accademy).
+                (As a side note, I met my wife here aswell).
+                After getting accepted, my journey into IT started here. It started on freecodecamp.org, working with JavaScript (something I sadly didn't stick with).
+                DEA is marketed as a taste of IT, and this is exactly what I needed as I had zero clue what I wanted to do. 
+                After taking some classes and being involved in clubs, I thought security was for me.
+                After taking a lot more classes dealing with more heavy hitting enterprise level security topics, I went back on that thought.
+                I was not a fan of just using tools. There was a lack of building that I wanted from Comp Sci. 
+                I am still presuing the degree, but now am self-studying to become a programmer 
+                 
+            </p>
+        </section>
+
+        <section>
+            <h2>Goals</h2>
+            <p>
+                Staying true to breaking things, I want to find myself as a MalDev or security research.
+                This requires a great baseline knowledge of systems, and systems archetecture. 
+                Before I start down this path, though, I want to break into Web Development as it is much easier to find a job, and backend systems still greatly interest me. 
+            </p>
+        </section>
+    </main>
+</body>
+</html>
