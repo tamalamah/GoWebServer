@@ -129,23 +129,3 @@ body::before {
     clip: rect(44px, 450px, 56px, 0);
     animation: glitch-anim 5s infinite linear alternate-reverse;
 }
-
-@keyframes glitch {
-    2%, 64% { transform: translate(2px,0) skew(0deg); }
-    4%, 60% { transform: translate(-2px,0) skew(0deg); }
-    62% { transform: translate(0,0) skew(5deg); }
-}
-
-@keyframes glitch-anim {
-    0% { clip: rect(9px, 9999px, 69px, 0); }
-    4% { clip: rect(30px, 9999px, 92px, 0); }
-    8% { clip: rect(56px, 9999px, 33px, 0); }
-    12% { clip: rect(4px, 9999px, 75px, 0); }
-    16% { clip: rect(66px, 9999px, 40px, 0); }
-    20% { clip: rect(38px, 9999px, 63px, 0); }
-    24% { clip: rect(23px, 9999px, 29px, 0); }
-    28% { clip: rect(35px, 9999px, 52px, 0); }
-    32% { clip: rect(10px, 9999px, 62px, 0); }
-    36% { clip: rect(51px, 9999px, 27px, 0); }
-    40% { clip: rect(46px, 9999px, 64px, 0); }
-}
